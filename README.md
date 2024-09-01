@@ -74,14 +74,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check [iss
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgements
-
-- [Axios](https://github.com/axios/axios) for HTTP requests
-- [Colors](https://github.com/Marak/colors.js) for colorful console output
-- [Luxon](https://moment.github.io/luxon/) for date and time handling
-
-Enjoy using the Fintopio Automation Tool! If you have any questions or run into any issues, please don't hesitate to reach out or open an issue on GitHub. Happy farming! 🌾✨
-
 ## 💱 Support Me
 
 - (Global/International): https://sociabuzz.com/vania_gemash/tribe
