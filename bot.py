@@ -21,10 +21,10 @@ def print_welcome_message():
 
     """)
     print(Fore.GREEN + Style.BRIGHT + "BOOMS BOT")
-    print(Fore.CYAN + Style.BRIGHT + "Jajanin dong orang baik :)")
-    print(Fore.YELLOW + Style.BRIGHT + "0x5bc0d1f74f371bee6dc18d52ff912b79703dbb54")
+    print(Fore.CYAN + Style.BRIGHT + "Donasinya Boleh ga maksa ga usah ngegas:)")
+    print(Fore.YELLOW + Style.BRIGHT + "https://sociabuzz.com/vania_gemash/tribe")
     print(Fore.RED + Style.BRIGHT + "Update Link: https://github.com/ongkangongkang/booms")
-    print(Fore.BLUE + Style.BRIGHT + "Tukang Rename MATI AJA")
+    print(Fore.BLUE + Style.BRIGHT + "Just For Pun")
 
 # Function to read the queries from the file
 def read_queries(filename):
